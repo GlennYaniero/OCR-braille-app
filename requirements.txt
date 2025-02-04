@@ -1,1 +1,3 @@
 pip install pytesseract pillow liblouis pyserial
+pip install pydotorg-louis
+pip install unidecode
